@@ -1,16 +1,23 @@
 import './App.css';
 import Header from './Header';
+import Footer from './Footer';
 
 function App() {
   return (
-<<<<<<< HEAD
-    <div className='app'>
+ <div className='app'>
       <Header />
+      <h1>HELLO</h1><br>
+      </br>
+      <h1>HELLO</h1><br></br>
+      <h1>HELLO</h1><br></br>
+      <h1>HELLO</h1><br></br>
+      <h1>HELLO</h1><br></br>
+      <h1>HELLO</h1><br></br>
+      <h1>HELLO</h1><br></br><h1>HELLO</h1><br></br>
+
+      <Footer />
     </div>
-=======
-    <h1>Commit trial!!! </h1>
->>>>>>> 329133de07c8d266b4772610cedf30efa7da91ba
-  );
+  )
 }
 
 export default App;
